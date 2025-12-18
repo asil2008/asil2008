@@ -1,7 +1,9 @@
 # Salom, men Asilbek Ramazonov! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Asilbek%20Ramazonov&fontSize=70" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&size=35&center=true&vCenter=true&width=600&lines=Salom,+men+Asilbek+Ramazonov!;IT+Bloger+va+Dasturchi;Loyihalarimga+xush+kelibsiz!" alt="Typing SVG" />
+  </a>
 </p>
 
 ### 👨‍💻 Men haqimda:
@@ -48,7 +50,7 @@ Men **IT Bloger** va dasturlashga qiziquvchi yosh mutaxassisman. Mening maqsadim
 ### 🔗 Men bilan bog'laning:
 
 <p align="left">
-<a href="https://t.me/sobitvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Asilbek Ramazonov" height="30" width="40" /></a>
+<a href="https://t.me/YOUTEGRAM_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Asilbek Ramazonov" height="30" width="40" /></a>
 <a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Asilbek Ramazonov" height="30" width="40" /></a>
 </p>
 

@@ -48,7 +48,7 @@ Men **IT Bloger** va dasturlashga qiziquvchi yosh mutaxassisman. Mening maqsadim
 ### 🔗 Men bilan bog'laning:
 
 <p align="left">
-<a href="https://t.me/YOUTEGRAM_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Asilbek Ramazonov" height="30" width="40" /></a>
+<a href="https://t.me/sobitvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Asilbek Ramazonov" height="30" width="40" /></a>
 <a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Asilbek Ramazonov" height="30" width="40" /></a>
 </p>
 
